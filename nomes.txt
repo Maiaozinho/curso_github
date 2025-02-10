@@ -1,5 +1,7 @@
 Gustavo
 Nicolas
 Adrian
+Fernando
+Lucas
 testando checkout
 
